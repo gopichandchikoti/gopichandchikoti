@@ -3,7 +3,7 @@
 **Senior Full Stack Developer — React · TypeScript · Next.js · React Native · Node.js · Java / Spring Boot**
 
 📍 Atlanta, Georgia · 💼 Senior Full Stack Developer at Tractor Supply Company
-🌐 Portfolio: https://gopichand-portfolio-sooty.vercel.app/
+🌐 Portfolio: https://gopichandchikoti-portfolio.vercel.app/
 🏪 Retail portfolio org: https://github.com/gopichand-retail-apps
 💼 LinkedIn: https://www.linkedin.com/in/gopichand-chikoti/
 
