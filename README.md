@@ -17,14 +17,14 @@
 - Backend: Java / Spring Boot, Node.js, REST, GraphQL, PostgreSQL, MySQL, Redis
 - Platform: Azure AKS, Docker, Kubernetes, Jenkins, GitHub Actions, OAuth 2.0 / SAML / SSO
 
-## Featured work — pin these 6 on the profile
+## Featured Work
 
-1. **CollaborativeWhiteboard** — Real-time multi-user canvas · React, NestJS, Yjs, SQLite
-2. **TasksAndNotes** — Local-first PWA workspace · React, TypeScript, IndexedDB · Live demo on portfolio
-3. **NexusIDE** — In-browser code editor / sandbox · TypeScript · Live demo on portfolio
-4. **Cine-Music-Wave-Web** — Media library + player · React, TypeScript, Express · Live demo on portfolio
-5. **Dockside** — Personal Linux / Docker server console · TypeScript, React, Fastify, SQLite
-6. **Motorfolio / Roadsmith** — Vehicle history & diagnostics tools · TypeScript, React · Live demos on portfolio
+- **[NexusIDE](https://github.com/gopichandchikoti/NexusIDE)** — my in-browser code editor. Edit, preview and run HTML, CSS, JavaScript, TypeScript and React projects right in the browser.
+- **[Cine Music Wave Mobile](https://github.com/gopichandchikoti/Cine-Music-Wave-Mobile)** — my cinema and music app as a native Android and iOS app that works fully offline. Library, player, queue and playlists.
+- **[Dockside](https://github.com/gopichandchikoti/Dockside)** — a console for my own Linux servers. Host metrics, Docker inspection, services and logs in one place.
+- **[Portfolio](https://gopichandchikoti-portfolio.vercel.app/)** — this site itself, where I keep all of my work together.
+- **[Roadsmith](https://github.com/gopichandchikoti/roadsmith)** — name a car problem and get a plain verdict, the tools to have ready, and the steps to fix it.
+- **[Snake Arena](https://github.com/gopichandchikoti/multiplayer-snake-arena)** — real-time multiplayer snake for 2–8 players, with public matchmaking, private rooms and bots to practice against. React, Phaser, Node.js and WebSockets, and the server decides every move.
 
 > Retail systems (10 apps, frontend + backend): see **@gopichand-retail-apps** — StockSync, ScanGo, ShopSenseAI, CommerceHub, PayBridge, FulfillOps, RetailPulse, RetailFlow, FinCore, WealthTrack.
 
@@ -32,6 +32,3 @@
 
 - Open to Senior Frontend / Full Stack roles (USA, H-1B sponsorship required)
 - Focus: React / TypeScript / Next.js front ends with Node.js or Spring Boot services behind them
-
----
-*Profile README for github.com/gopichandchikoti — published 2026-11-10.*
