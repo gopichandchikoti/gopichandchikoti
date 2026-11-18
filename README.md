@@ -20,7 +20,7 @@
 
 - **Senior Full Stack Developer, Tractor Supply Company** — Apr 2026–Present. Hey Gura, an LLM-powered voice + chat product search for store apps, and Pre-Count Inventory and other microapps used by ~55,000 store employees.
 - **Senior Full Stack Developer, NCR Voyix** — Sep 2025–Mar 2026. Cash Office and Pocket Office, the apps stores use to reconcile cash and settle drawers, plus a shared component library both apps use.
-- **Software Engineer → Senior Software Engineer, U.S. Bank** — May 2022–Aug 2025. Small Business Banking. Built the talech SSO integration and UPG, one sign-on for 8 acquired products, with deep linking in v2.0; plus a user management portal and invoicing and merchant services micro-apps. Java Spring Boot, GraphQL, React and TypeScript, Module Federation.
+- **Software Engineer → Senior Software Engineer, U.S. Bank** — March 2022–Aug 2025. Small Business Banking. Built the talech SSO integration and UPG, one sign-on for 8 acquired products, with deep linking in v2.0; plus a user management portal and invoicing and merchant services micro-apps. Java Spring Boot, GraphQL, React and TypeScript, Module Federation.
 - **Frontend Developer, TCS** — Jan 2020–Dec 2021. React apps for Mascom Wireless, a telecom operator; AWS services, SQL scheduled jobs, Apache server management.
 
 ## Featured Work
